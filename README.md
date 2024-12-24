@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/gavinmackinder
-[instagram]: https://www.instagram.com/gmack3
+[instagram]: https://www.instagram.com/gmack_3
 [linkedin]: https://linkedin.com/in/gavinmackinder
